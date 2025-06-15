@@ -1,9 +1,9 @@
 # BLM4538
 BLM4538 IOS ile Mobil Uygulama Geliştirme II
 
-Yapılacaklar Listenin Bulunduğu İlk Rapor "IOS_Ilk_Rapor.docx" Belgesidir.
+Yapılacaklar Listenin Bulunduğu İlk Rapor "IOS_Ilk_Rapor.pdf" Belgesidir.
 
-Final Raporu "IOS_Rapor.docx" belgesidir.
+Final Raporu "IOS_Rapor.pdf" belgesidir.
 
 Youtube Video Linki : "https://youtube.com/shorts/HXvbVIc8L_I?feature=share"
 
